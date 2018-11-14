@@ -76,8 +76,6 @@ def main():
     window.geometry("400x400")
     window.title("2048")
     draw_grid(canvas, game.get_state(), FantasqueSansMono)
-    KEY_BINDINGS["<a>"]()
-    draw_grid(canvas, game.get_state(), FantasqueSansMono)
     # key assignments
     for key, value in KEY_BINDINGS.items():
         window.bind(key, lambda e, value=value: action(value, game, canvas, FantasqueSansMono))
