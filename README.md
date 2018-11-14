@@ -1,1 +1,1 @@
-![Screenshot of Game](https://i.imgur.com/bJQRYt7.png)
+![Screenshot of Game](https://i.imgur.com/eO3JTpc.png)
